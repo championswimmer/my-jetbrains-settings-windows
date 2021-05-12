@@ -1,0 +1,12 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Kotlin2JvmCompilerArguments">
+        <option name="jvmTarget" value="12" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
